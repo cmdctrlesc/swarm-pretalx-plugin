@@ -1,0 +1,6 @@
+recursive-include swarm_pretalx/static *
+recursive-include swarm_pretalx/templates *
+exclude swarm_pretalx/locale/django.pot
+recursive-include swarm_pretalx/locale *
+recursive-include swarm_pretalx/ *.py
+include Makefile
