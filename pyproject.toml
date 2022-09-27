@@ -6,7 +6,7 @@ authors = ["cmdctrlesc <alanxyz210@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 python-dotenv = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
