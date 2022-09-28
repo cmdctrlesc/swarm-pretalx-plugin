@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "swarm_pretalx"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Pretalx plugin that exports the agenda on Swarm"
 authors = ["cmdctrlesc <alanxyz210@gmail.com>"]
-license = "MIT"
+license = "Apache Software License"
 
 [tool.poetry.dependencies]
 python = "^3.8"

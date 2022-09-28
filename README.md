@@ -23,7 +23,7 @@ GITHUB_USERNAME = 'My Github Name'
 
 GITHUB_EMAIL = 'mygithub@email.com'
 
-The plugin will look for the .env file in the Swarm-plugin directory, which is the directory that also contains setup.py, Makefile etc. 
+The plugin will look for the .env file in the root (Swarm-plugin) directory, which is the directory that also contains setup.py, Makefile etc. 
 
 
 Development setup

@@ -24,7 +24,7 @@ cmdclass = {"build": CustomBuild}
 
 setup(
     name="swarm-plugin",
-    version="0.0.0",
+    version="0.1.2",
     description="Pretalx plugin for exporting the agenda to Swarm",
     long_description=long_description,
     url="https://github.com/cmdctrlesc/swarm-pretalx-plugin",
