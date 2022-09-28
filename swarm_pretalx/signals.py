@@ -57,11 +57,11 @@ def on_schedule_release(sender, schedule, user, **kwargs):
     )
     logger.info(resp1.text)
 
-    # management.call_command(
-    #     "export_schedule_html",
-    #     sender,
-    #     "--zip",
-    # )
+    management.call_command(
+        "export_schedule_html",
+        sender,
+        "--zip",
+    )
 
     zip_path = get_export_zip_path(sender)
 

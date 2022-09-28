@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "swarm_pretalx"
-version = "0.1.2"
+version = "0.1.3"
 description = "A Pretalx plugin that exports the agenda on Swarm"
 authors = ["cmdctrlesc <alanxyz210@gmail.com>"]
 license = "Apache Software License"
