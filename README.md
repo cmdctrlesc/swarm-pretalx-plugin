@@ -18,7 +18,9 @@ This plugin uses the Github api to post data to Swarm. You will need write acces
 Credentials need to be put in an .env file as follows:
 
 GITHUB_TOKEN = mytokenstring
+
 GITHUB_USERNAME = 'My Github Name'
+
 GITHUB_EMAIL = 'mygithub@email.com'
 
 The plugin will look for the .env file in the Swarm-plugin directory, which is the directory that also contains setup.py, Makefile etc. 
