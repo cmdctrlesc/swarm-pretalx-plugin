@@ -8,6 +8,8 @@ Installation
 
 pip install swarm-pretalx
 
+Go to the 'plugins' tab in the /orga panel of your Pretalx event. If you do not see the plugin run setup.py develop.
+
 
 
 
